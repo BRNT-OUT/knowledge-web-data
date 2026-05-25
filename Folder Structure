@@ -1,0 +1,14 @@
+knowledge-web-data/
+  README.md
+  CHANGELOG.md
+  schema/
+    node-schema.json
+  data/
+    eras.json
+    events.json
+    people.json
+    themes.json
+    industries.json
+    connections.json
+  sources/
+    source-registry.json
