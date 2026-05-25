@@ -12,4 +12,4 @@ extraction, resistance, and power across history.
 
 ## Contributing
 Contributions go through review before being added to the live dataset.
-Contact Scooby@wearebrntout.com to get involved.
+Contact solidarity@wearebrntout.com to get involved.
